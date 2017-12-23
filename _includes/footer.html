@@ -28,15 +28,15 @@
           </li>
           {% endif %}
 
-          {% if site.facebook_page %}
-          <li>
-            {% include icon-facebook.html username=site.name %}
-          </li>
-          {% endif %}
-
           {% if site.twitter_username %}
           <li>
             {% include icon-twitter.html username=site.twitter_username %}
+          </li>
+          {% endif %}
+
+          {% if site.facebook_page %}
+          <li>
+            {% include icon-facebook.html username=site.name %}
           </li>
           {% endif %}
         </ul>

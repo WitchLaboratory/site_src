@@ -4,3 +4,6 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
+# Welcome to Witch Laboratory's site!
+{% include icon-twitter.html username=site.twitter_username %}
+{% include icon-facebook.html username=site.name %}

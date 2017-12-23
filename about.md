@@ -17,7 +17,3 @@ Tallinn 15551
 Estonia
 
 **Email:** [{{ site.email }}](mailto:{{ site.email }})
-
-**Twitter:** [{{ site.twitter_username }}](https://twitter.com/{{ site.twitter_username }})
-
-**Facebook:** [{{site.name}}](https://facebook.com/{{ site.facebook_page }})
