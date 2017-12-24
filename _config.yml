@@ -19,7 +19,7 @@ email: witch.laboratory@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Copyright © 2017-2018 Witch Laboratory
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://witchlaboratory.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: WitchLaboratory
 facebook_page: witch.laboratory
 
