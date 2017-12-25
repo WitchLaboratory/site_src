@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![Logo]({{ "/assets/wl_logo_transparent.png" | absolute_url }})
+![Logo]({{ "/assets/wl_logo.jpg" | relative_url }})
 
 {{site.name}} is a small independent game developer company located in Estonia / Finland, founded in 2017.
 
