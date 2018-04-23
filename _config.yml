@@ -16,6 +16,7 @@
 title: Witch Laboratory
 name: Witch Laboratory
 email: witch.laboratory@gmail.com
+email_support: witch.laboratory+support@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Copyright © 2017-2018 Witch Laboratory
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -23,6 +24,8 @@ url: "http://www.witchlaboratory.com" # the base hostname & protocol for your si
 twitter_username: WitchLaboratory
 facebook_page: witch.laboratory
 google_analytics: "UA-111611539-1"
+
+fvte: From Village to Empire
 
 # Build settings
 markdown: kramdown
