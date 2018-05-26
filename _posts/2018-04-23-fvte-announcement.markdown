@@ -2,7 +2,7 @@
 layout: post
 title:  "From Village to Empire is coming soon"
 date:   2018-04-23 14:21:23 +0200
-categories: main
+categories: main fvte
 ---
 
 [![Game screenshot][image]][hyperlink]  
