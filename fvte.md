@@ -4,9 +4,10 @@ title: From Village To Empire
 permalink: /fromvillagetoempire/
 ---
 
-[![Title art][image2]][hyperlink2]{:target="_blank"}
+[![Title art][image2]{:width="450px"}][hyperlink2]{:target="_blank"}
+[![Screenshot][image]{:width="450px"}][hyperlink]{:target="_blank"}
 
-[![Screenshot][image]][hyperlink]{:target="_blank"}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I_GR3p7vvwc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 **{{site.fvte}}** is an indie turn based strategy game with a historical setting. Build cities, research technologies, and train units to discover new lands and conquer the world!
 
